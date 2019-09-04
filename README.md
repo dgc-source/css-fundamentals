@@ -1,5 +1,7 @@
 # CSS Fundamentals
 
+## 1. Set CSS Properties and Values (syntax)
+
 **CSS (Cascading StyleSheets)** is a _styling_ language that controls how documents are presented on the Web to users. This means it controls how text, images, and other elements are displayed.
 
 This is an example of the **syntax  (instructions that you write that are interpreted by the browser to give you your expected results)** used by `CSS`:
@@ -58,4 +60,30 @@ Now you should see something like this in your browser:
 
 ![h1 with black text](imgs/h1-black.png)
 
-If for some reason you're not getting the same results, check the syntax of your HTML and make sure everything is written as above.
+If for some reason you're not getting the same results, check the syntax of your HTML and make sure everything is written exactly as it is above.
+
+Now open up your external stylesheet and add this syntax to it:
+
+ ```css
+  h1 {
+    color: red;
+  }
+```
+
+Save it, and now you will notice that the text of our `h1` is now red just like an our earlier example.
+
+CSS has two main components: the selector and the corresponding code block. Let's take a look at our code snippet above.
+
+`h1` is our selector. This is how we tell the browser which HTML element we want to apply styles to. Everything defined within `{ }` will apply only to this selector. These curly braces are also known as **CSS declaration blocks**. Inside of these blocks is where we make our CSS declarations.
+
+A **CSS declaration** consists of two parts: a **property** and a **value**. If we go back to our code snippet above we can see that there is CSS declaration for our `h1` element.
+
+```css
+  color: red;
+```
+Properties are defined on the left-hand side of the colon. These are the features of the page that we want to style. In our case, we want to style the `color` property of our `h1` element.
+
+
+Values are defined on the right-hand side of the colon. Each property has a set of valid values that can be implemented on a website. In our case, `red` is the value that we want to assign to our color value.
+
+**IMPORTANT TIP:** always be sure to end your CSS declaration with a `;`. If not your CSS declaration will not take effect.
