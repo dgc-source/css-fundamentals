@@ -14,7 +14,7 @@ This is an example of the **syntax  (instructions that you write that are interp
 
 This is the result of the syntax above:
 
-![h1 with red text](imgs/h1-red.png)
+![h1 with red text](../imgs/h1-red.png)
 
 In order to get the result that is displayed above, first you're going to want to to create an **HTML (HyperText Markup Language)** document. You can think of HTML as the the skeleton (structure) of your Web Page. 
 
@@ -52,13 +52,12 @@ Now, while you still have your HTML document open go ahead and add an `h1` tag w
 
 Now open your HTML document by right clicking it and selecting your browswer:
 
-![opening html documunet](imgs/opening-html.png)
+![opening html documunet](../imgs/opening-html.png)
 
-<br/>
 
 Now you should see something like this in your browser:
 
-![h1 with black text](imgs/h1-black.png)
+![h1 with black text](../imgs/h1-black.png)
 
 If for some reason you're not getting the same results, check the syntax of your HTML and make sure everything is written exactly as it is above.
 
