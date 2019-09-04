@@ -54,6 +54,7 @@ Now open your HTML document by right clicking it and selecting your browswer:
 
 ![opening html documunet](../imgs/opening-html.png)
 
+<br/>
 
 Now you should see something like this in your browser:
 
