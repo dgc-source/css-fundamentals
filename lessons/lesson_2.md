@@ -77,7 +77,7 @@ Now we can use the attribute that we assigned to our p element in our external s
 }
 ```
 
-**Important tip:** remember to the place the attribute selector in braces or else your CSS declaration won't take effect.
+**Important tip:** remember to the place the attribute selector in square brackets or else your CSS declaration won't take effect.
 
 If would like to look a little closer at the attribute that we used above, [w3schools](https://www.w3schools.com/tags/att_global_data.asp) has a great article on it.
 
