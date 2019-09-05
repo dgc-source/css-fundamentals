@@ -9,3 +9,5 @@ These are a collection of notes that I've created for the [CSS Fundamentals](htt
 **3.** [Utilize Selector Specificity to Control Applied Styles](lessons/lesson_3.md)
 
 **4.** [Style Elements Using the Cascade](lessons/lesson_4.md)
+
+**5.** [Apply CSS Styles with Inheritance](lessons/lesson_5.md)

@@ -1,7 +1,11 @@
-.home {
+ul {
+  color: blue;
+}
+
+li {
   color: red;
 }
 
-.home--two {
-  color: blue;
+.home {
+  color: initial;
 }
