@@ -1,3 +1,11 @@
-#error {
+ul li {
+  color: purple !important;
+}
+
+.home {
   color: red;
+}
+
+#home {
+  color: grey;
 }
