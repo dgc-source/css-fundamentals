@@ -1,11 +1,7 @@
-ul li {
-  color: purple !important;
-}
-
 .home {
   color: red;
 }
 
-#home {
-  color: grey;
+.home--two {
+  color: blue;
 }
