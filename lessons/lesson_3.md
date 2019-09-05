@@ -49,7 +49,7 @@ li {
 
 ![list item with red text](../imgs/listitem-red.png)
 
-Notice how the remaining `li` elements remain blue while the first `li` element that we assigned the class `home` is now red. This is where the **cascading** effect of our Cascading Stylesheets kicks in.
+Notice how the remaining `li` elements remain blue while the first `li` element that we assigned the class `home` is now red. This is where the **specificity** of our CSS delcarations play a critical role.
 
 When multiple selectors are targeting the same element, the browser needs to know which one to apply. This is where the cascade and specificity come into play.
 
