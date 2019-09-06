@@ -11,3 +11,23 @@ These are a collection of notes that I've created for the [CSS Fundamentals](htt
 **4.** [Style Elements Using the Cascade](lessons/lesson_4.md)
 
 **5.** [Apply CSS Styles with Inheritance](lessons/lesson_5.md)
+
+**6.** [Debug CSS with the Chrome Devtools](lessons/lesson_6.md)
+
+**7.** [Understand CSS Layout with the Boxdel](lessons/lesson_7.md)
+
+**8.** [Contorl HTML Elements with Different CSS Units](lessons/lesson_8.md)
+
+**9.** [Manipulate Colors with CSS](lessons/lesson_9.md)
+
+**10.** [Add Backgrounds to HTML Elements](lessons/lesson_10.md)
+
+**11.** [Hide and Show HTML Elements with CSS](lessons/lesson_11.md)
+
+**12.** [Modify Font Style in CSS](lessons/lesson_12.md)
+
+**13.** [Positioning HTML Elements using CSS](lessons/lesson_13.md)
+
+**14.** [Customize CSS Selectors with Pseudo Classes](lessons/lesson_14.md)
+
+**15.** [Use CSS Media Queries to Dynamically Apply Styles](lessons/lesson_15.md)
